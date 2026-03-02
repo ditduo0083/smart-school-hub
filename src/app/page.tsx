@@ -36,13 +36,13 @@ export default function Home() {
         <div className="flex flex-col sm:flex-row gap-4">
           <a
             className="rounded-full bg-blue-600 text-white px-6 py-3 font-semibold hover:bg-blue-700 transition"
-            href="#"
+            href="/login"
           >
             교사 로그인 (2450!)
           </a>
           <a
             className="rounded-full bg-green-500 text-white px-6 py-3 font-semibold hover:bg-green-600 transition"
-            href="#"
+            href="/login"
           >
             학생 로그인 (kse2026)
           </a>
